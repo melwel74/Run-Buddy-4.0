@@ -6,3 +6,6 @@
 *HTML
 
 *CSS
+
+# Images
+![This is a image](file:///Users/melvinwelton/Run-Buddy-4.0/index.html)
