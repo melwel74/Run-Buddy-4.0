@@ -1,2 +1,2 @@
 # Run-Buddy-4.0
-# Purpose
+# Purpose ## A website for Run Buddy which offers fitness training services.
